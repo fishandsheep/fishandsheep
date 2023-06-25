@@ -5,7 +5,6 @@
   - 秦受(`masochism`, Just a joke)😳
 - 👀 I’m interested in open source.
 - 🌱 I’m currently learning Docker
-- 📫 How to reach me : zhangwenming0906@163.com
 
 <!---
 fishandsheep/fishandsheep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
