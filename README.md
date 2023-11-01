@@ -3,8 +3,7 @@
   - 禽兽(`birds and animals` or `beast`)😁
   - 秦瘦(`thin`)😢
   - 秦受(`masochism`, Just a joke)😳
-- 👀 I’m interested in open source.
-- 🌱 I’m currently learning Docker
+
 
 <!---
 fishandsheep/fishandsheep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
