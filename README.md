@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a QinShower,I generally develop web applications through java.
+- 👋 Hi, I’m a QinShower,I generally develop web applications using Java.
 - 🤪`QinShower` is a word that I created myself, I think it has three Chinese meanings:
   - 禽兽(`birds and animals` or `beast`)😁
   - 秦瘦(`thin`)😢
